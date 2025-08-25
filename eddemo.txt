@@ -1,0 +1,4 @@
+Hello! This is Ed.
+You may be wondering why anyone would design a program like this?
+Well, you clearly haven't seen a
+teletype
